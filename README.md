@@ -17,7 +17,7 @@
 
 
 Задание 2:
-Схема: https://drive.google.com/file/d/1F7Ed-uC-lO7ySW7xDyfba91mHHiGNuKz/view?usp=drive_link
+Схема: https://drive.google.com/file/d/1F7Ed-uC-lO7ySW7xDyfba91mHHiGNuKz/view?usp=drive_link (также приложена в папке проекта)
 В рамках задачи я предлагаю разделить функционал с помощью нескольких независимых микросервисов:
 - AUTH-API - сервис, которая управляет авторизацией, аунтификацией, генерации токенов и выдачей прав на различные действия.
 - CLIENT-API - сервис хранения информации о клиентах.
